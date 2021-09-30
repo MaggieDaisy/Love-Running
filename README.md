@@ -1,7 +1,9 @@
 ## Welcome from MaggieDaisy
 
-This little project was one of my first websites developed during my coding journey. 
-It uses simple front-end technology HTML, CSS, and JS.
+This little project was one of my first websites developed during my coding journey with Code Institute. 
+It uses simple front-end technology like HTML, CSS, and JS.
+
+[**You can view live site here**](https://maggiedaisy.github.io/Love-Running/)
 
 <img src="love_run.jpg" alt="My cool logo" width="350"/>
 
